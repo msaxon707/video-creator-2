@@ -1,3 +1,6 @@
-moviepy==1.0.3
 requests
-openai>=1.6.0
+moviepy
+openai
+pillow
+pexels-api
+python-dotenv
