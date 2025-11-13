@@ -1,6 +1,9 @@
 requests
 moviepy
+numpy
 openai
 pillow
 pexels-api
 python-dotenv
+fastapi
+uvicorn
